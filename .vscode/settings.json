@@ -1,0 +1,8 @@
+{
+  "python.analysis.typeCheckingMode": "basic",
+  "pythonIndent.keepHangingBracketOnLine": true,
+  "pythonIndent.trimLinesWithOnlyWhitespace": true,
+  "pythonIndent.useTabOnHangingIndent": true,
+  "editor.defaultFormatter": "KevinRose.vsc-python-indent",
+  "notebook.defaultFormatter": "KevinRose.vsc-python-indent"
+}
